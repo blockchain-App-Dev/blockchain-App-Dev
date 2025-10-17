@@ -1,4 +1,4 @@
-# 🚀 Building Bitcoin-Like Blockchain Networks
+# 🚀 Building Blockchain Networks Like-Bitcoin
 
 <div align="center">
 
